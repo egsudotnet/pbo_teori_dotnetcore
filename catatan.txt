@@ -1,0 +1,5 @@
+1. Create project
+dotnet new console -n MyApp
+
+2. Jalankan code 
+dotnet run
